@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextEditor1", "TextEditor1.csproj", "{7D150C4F-CB43-4C29-B502-3E6CEEBE489D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextEditor1.BL", "TextEditor1.BL\TextEditor1.BL.csproj", "{AC64E501-4042-4594-BA9F-53C7E5A70D8F}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "TextEditor1_uml", "TextEditor1_uml\TextEditor1_uml.modelproj", "{1B29102E-6412-465E-B49B-F7AF0A509C28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D150C4F-CB43-4C29-B502-3E6CEEBE489D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D150C4F-CB43-4C29-B502-3E6CEEBE489D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D150C4F-CB43-4C29-B502-3E6CEEBE489D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D150C4F-CB43-4C29-B502-3E6CEEBE489D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC64E501-4042-4594-BA9F-53C7E5A70D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC64E501-4042-4594-BA9F-53C7E5A70D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC64E501-4042-4594-BA9F-53C7E5A70D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC64E501-4042-4594-BA9F-53C7E5A70D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B29102E-6412-465E-B49B-F7AF0A509C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B29102E-6412-465E-B49B-F7AF0A509C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B29102E-6412-465E-B49B-F7AF0A509C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B29102E-6412-465E-B49B-F7AF0A509C28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
